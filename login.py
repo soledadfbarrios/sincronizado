@@ -4,6 +4,10 @@ elif  opcion == "2":
 					
 		exit()
 
+<<<<<<< HEAD
 temas()
 
 temassub()
+=======
+temas()
+>>>>>>> actualizando
